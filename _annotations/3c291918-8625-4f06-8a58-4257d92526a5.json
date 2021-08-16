@@ -1,0 +1,34 @@
+---
+canvas: "http://1c901edd-8bfa-4e68-bdb7-43bcc84a1b99"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Mausoleum of the Emperor Shere Shahl",
+            "purpose": "identifying",
+            "creator": {
+                "id": "cpitta",
+                "name": "cpitta"
+            },
+            "created": "2021-08-16T15:48:25.435Z",
+            "modified": "2021-08-16T15:49:04.802Z"
+        }
+    ],
+    "target": {
+        "source": "http://1c901edd-8bfa-4e68-bdb7-43bcc84a1b99",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:861.6728515625,2053.841796875,1603.791259765625,279.0380859375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://cpitta.github.io/testone/manifests/shere_manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/3c291918-8625-4f06-8a58-4257d92526a5.json"
+}
